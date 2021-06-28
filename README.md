@@ -8,4 +8,5 @@
 
 ## 资料
 
-[apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](./deploy.md)
+- [apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](./deploy.md)
+
