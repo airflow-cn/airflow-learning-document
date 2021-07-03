@@ -4,7 +4,7 @@
 
 ## 学习路线
 
-![Airflow学习路线](./imgs/Airflow学习路线.png)
+![Airflow实战](./imgs/Airflow实战.png)
 
 
 
