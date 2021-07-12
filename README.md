@@ -5,14 +5,14 @@
 ## 视频
 
 - [apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](https://www.bilibili.com/video/BV1gy4y1M7Bt)
-- [最小Dag示例](https://ke.qq.com/course/package/37511?tuin=31589b0e)
+- [快速入门](https://ke.qq.com/course/package/37511?tuin=31589b0e)
 
 
 
 ## 资料
 
 - [apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](./deploy.md)
-- [最小Dag示例](https://ke.qq.com/course/package/37511?tuin=31589b0e)
+- [快速入门](https://ke.qq.com/course/package/37511?tuin=31589b0e)
 
 
 
