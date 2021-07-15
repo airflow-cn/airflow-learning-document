@@ -22,7 +22,7 @@
 
 > 1wDag数量级优化之路
 
-<img src="/Users/zhengyansheng/go/src/github.com/airflow-cn/airflow-video/imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom:80%;" />
+<img src="./imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom:80%;" />
 
 ## 招聘
 
