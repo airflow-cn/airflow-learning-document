@@ -16,6 +16,14 @@
 
 
 
+
+
+## 全套课程
+
+> 1wDag数量级优化之路
+
+<img src="/Users/zhengyansheng/go/src/github.com/airflow-cn/airflow-video/imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom:80%;" />
+
 ## 招聘
 
 欢迎志同道合之人，一起协力做 免费 + 付费视频教程，让社区成长更快。
