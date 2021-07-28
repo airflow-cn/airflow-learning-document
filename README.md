@@ -8,7 +8,7 @@
 - 第2课时 使用场景
   - [2.1 大数据自动化]()
   - [2.2 运维自动化]()
-- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](https://www.bilibili.com/video/BV1gy4y1M7Bt)
+- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式]()
 - 第4课时 专有名词解释和使用
   - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun]()
   - [4.2 Macros, Connections, Hook, Pools, priority_weight]()
