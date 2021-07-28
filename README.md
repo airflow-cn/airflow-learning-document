@@ -12,8 +12,7 @@
 - 第4课时 专有名词解释和使用
   - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun]()
   - [4.2 Macros, Connections, Hook, Pools, priority_weight]()
-- [快速入门](https://ke.qq.com/course/package/37511?tuin=31589b0e)
-
+- 第5课时 快速入门
 
 
 
@@ -21,10 +20,6 @@
 ## 课程更新进度
 
 ![image-20210728105233867](./imgs/image-20210728105233867.png)
-
-
-
-
 
 
 
