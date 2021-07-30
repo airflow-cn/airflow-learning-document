@@ -3,7 +3,7 @@
 
 
 
-> VIP 用户请进入 Airflow 调度第一期 微信群，有任何关于Airflow问题有老师当天解答。
+> VIP 用户请进入 <<Airflow 调度第一期>> 微信群，有任何关于Airflow问题有老师当天解答。
 
 
 
