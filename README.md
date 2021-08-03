@@ -1,17 +1,17 @@
 # apache-airflow 技术中文视频
 
 
-
-
-> VIP 用户请进入 <<Airflow 调度第一期>> 微信群
-
-
 ---
 
 付费视频已发布的平台：
 - [腾讯课堂](https://ke.qq.com/course/3583340?taid=12330035066613100)
 - 51CTO
 - 慕课网
+
+
+免费视频已发布的平台
+- [B站](https://www.bilibili.com/video/BV1gy4y1M7Bt)
+
 
 ---
 
