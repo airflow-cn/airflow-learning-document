@@ -3,7 +3,7 @@
 
 
 
-> VIP 用户请进入 <<Airflow 调度第一期>> 微信群，有任何关于Airflow问题有老师当天解答。
+> VIP 用户请进入 <<Airflow 调度第一期>> 微信群
 
 
 
@@ -36,15 +36,13 @@
 
 ## 课程更新进度
 
-![image-20210728105233867](./imgs/image-20210728105233867.png)
+![image-20210803083050230](imgs/image-20210803083050230.png)
 
 
 
 ## 全套课程
 
-> 1wDAG数量级优化之路
-
-<img src="./imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom:80%;" />
+<img src="./imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom: 50%;" />
 
 ## 招聘
 
