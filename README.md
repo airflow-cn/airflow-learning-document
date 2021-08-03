@@ -1,34 +1,66 @@
 # apache-airflow 技术中文视频
 
 
+---
+
+付费视频已发布的平台：
+- [腾讯课堂](https://ke.qq.com/course/3583340?taid=12330035066613100)
+- 51CTO
+- 慕课网
+
+
+免费视频已发布的平台
+- [B站](https://www.bilibili.com/video/BV1gy4y1M7Bt)
+
+
+---
 
 ## 视频
 
-- [第0课时 课程介绍]()
-- [第1课时 架构&&组件&&案例分析]()
+- [第0课时 课程介绍](免费)
+- [第1课时 架构&&组件&&案例分析](部分免费)
 - 第2课时 使用场景
-  - [2.1 大数据自动化]()
-  - [2.2 运维自动化]()
-- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式]()
+  - [2.1 大数据自动化](付费)
+  - [2.2 运维自动化](付费)
+- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](免费)
 - 第4课时 专有名词解释和使用
-  - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun]()
-  - [4.2 Macros, Connections, Hook, Pools, priority_weight]()
+  - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun](付费)
+  - [4.2 Macros, Connections, Hook, Pools, priority_weight](付费)
 - 第5课时 快速入门
+- 第6课时 
+- 第7课时 
+- 第8课时 
+- 第9课时 
+- 第10课时 
+- 第11课时 
+- 第12课时 
+- 第13课时 
+- 第14课时 
+- 第15课时 
+- 第16课时 
+- 第17课时 
+- 第18课时 
+- 第19课时 
+- 第20课时 
+- 第21课时 
+- 第22课时 
+- 第23课时 
+- 第24课时
+- 第25课时 
+- ...
 
 
 
 
 ## 课程更新进度
 
-![image-20210728105233867](./imgs/image-20210728105233867.png)
+![image-20210803083050230](imgs/image-20210803083050230.png)
 
 
 
 ## 全套课程
 
-> 1wDAG数量级优化之路
-
-<img src="./imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom:80%;" />
+<img src="./imgs/WechatIMG41.jpeg" alt="WechatIMG41" style="zoom: 50%;" />
 
 ## 招聘
 
