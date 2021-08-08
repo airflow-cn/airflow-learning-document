@@ -26,10 +26,10 @@
 - 第4课时 专有名词解释和使用
   - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun](付费)
   - [4.2 Macros, Connections, Hook, Pools, priority_weight](付费)
-- 第5课时 快速入门
-- 第6课时 
-- 第7课时 
-- 第8课时 
+- [第5课时 快速入门](付费)
+- 第6课时 深入定时策略
+- 第7课时 全面学习admin UI使用
+- 第8课时 日志和监控
 - 第9课时 
 - 第10课时 
 - 第11课时 
