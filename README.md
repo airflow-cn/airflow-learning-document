@@ -17,17 +17,17 @@
 
 ## 视频
 
-- [第0课时 课程介绍](免费)
-- [第1课时 架构&&组件&&案例分析](部分免费)
+- [第0课时 课程介绍]() 免费
+- [第1课时 架构&&组件&&案例分析]()
 - 第2课时 使用场景
-  - [2.1 大数据自动化](付费)
-  - [2.2 运维自动化](付费)
-- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式](免费)
+  - [2.1 大数据自动化]()
+  - [2.2 运维自动化]()
+- [第3课时 apache-airflow 任务调度系统 - 开发环境-快速部署的2种方式]()
 - 第4课时 专有名词解释和使用
-  - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun](付费)
-  - [4.2 Macros, Connections, Hook, Pools, priority_weight](付费)
-- [第5课时 快速入门](付费)
-- 第6课时 深入定时策略 已完成
+  - [4.1 DAG, Task, Pipeline, Xcoms, Variables, DagRun]()
+  - [4.2 Macros, Connections, Hook, Pools, priority_weight]()
+- [第5课时 快速入门]()
+- [第6课时 深入定时策略]() 
 - 第7课时 全面学习admin UI使用 上传中
 - 第8课时 日志和监控 录制中
 - 第9课时 安全 准备中
